@@ -36,3 +36,4 @@ p span.i2{
     text-indent: -1em;
     padding-left: 3em;
 }
+abbr.name{ white-space: nowrap; }

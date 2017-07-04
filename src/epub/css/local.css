@@ -1,5 +1,8 @@
 @charset "UTF-8";
 @namespace epub "http://www.idpf.org/2007/ops";
+
+/* Standard Ebooks examples below ----------------------------------------- */
+
 span[epub|type~="subtitle"]{
     display: block;
     font-weight: normal;
@@ -37,3 +40,12 @@ p span.i2{
     padding-left: 3em;
 }
 abbr.name{ white-space: nowrap; }
+
+
+/* Matthew Clapp custom below --------------------------------------------- */
+
+/* could be the same as a poem? */
+[epub|type~="boxingplaybyplay"]{
+    text-indent: -1.5em;
+    padding-left: 1.5em;
+}

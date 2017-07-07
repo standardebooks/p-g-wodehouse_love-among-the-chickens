@@ -66,11 +66,12 @@ footer{
     text-indent: 0;
 } 
 
-/* Matthew Clapp custom below --------------------------------------------- */
-
 span[epub|type~="z3998:salutation"]{
     font-variant: small-caps;
 }
+
+
+/* Matthew Clapp custom below --------------------------------------------- */
 
 blockquote[epub|type~="dedication"]{
     text-align: center;
@@ -85,4 +86,3 @@ blockquote[epub|type~="dedication"]{
 .fromprint {
     font-variant: small-caps;
 }
-

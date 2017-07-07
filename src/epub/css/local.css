@@ -41,8 +41,40 @@ p span.i2{
 }
 abbr.name{ white-space: nowrap; }
 
+/* Alex Cabal suggestion below (in email)---------------------------------- */
+
+footer{
+    margin-top: 1em;
+    text-align: right;
+}
+
+.signature{
+    font-variant: small-caps;
+}
+
+[epub|type~="z3998:letter"] .signature{
+    text-align: right;
+}
+
+[epub|type~="dedication"] header{
+    margin: 1em auto;
+    text-align: center;
+}
+
+[epub|type~="dedication"] header p{
+    font-size: 1.5em;
+    text-indent: 0;
+} 
 
 /* Matthew Clapp custom below --------------------------------------------- */
+
+span[epub|type~="z3998:salutation"]{
+    font-variant: small-caps;
+}
+
+blockquote[epub|type~="dedication"]{
+    text-align: center;
+}
 
 /* could be the same as a poem? */
 [epub|type~="boxingplaybyplay"]{
@@ -53,3 +85,4 @@ abbr.name{ white-space: nowrap; }
 .fromprint {
     font-variant: small-caps;
 }
+

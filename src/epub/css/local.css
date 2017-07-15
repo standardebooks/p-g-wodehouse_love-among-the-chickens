@@ -70,17 +70,16 @@ span[epub|type~="z3998:salutation"]{
     font-variant: small-caps;
 }
 
-
-/* Matthew Clapp custom below --------------------------------------------- */
-
 blockquote[epub|type~="dedication"]{
     text-align: center;
 }
 
+/* Matthew Clapp custom below --------------------------------------------- */
+
 /* could be the same as a poem? */
 [epub|type~="boxingplaybyplay"]{
-    text-indent: -1.5em;
-    padding-left: 1.5em;
+    text-indent: -1.5em; /* 1.0 instead?? */
+    padding-left: 1.5em; /* 1.0 instead?? */
 }
 
 .fromprint {

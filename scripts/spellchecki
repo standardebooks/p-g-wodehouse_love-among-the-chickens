@@ -1,0 +1,3 @@
+#!/bin/bash
+
+aspell check --lang=en-GB --mode=html $1

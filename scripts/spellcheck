@@ -1,0 +1,3 @@
+#!/bin/bash
+
+cat $1 | aspell pipe --lang=en-GB --mode=html | grep -v \* | uniq

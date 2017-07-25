@@ -43,6 +43,8 @@ Chapter 7
     "outwardly resigned but inwardly, as I, who knew" not same as source
         * "but inwardly as I, who knew" in source, still awkward
     unbiassed - should be "unbiased" ?
+    "There was croquet after lunch,--" , em-dash??
+    
 
  
 vim: textwidth=79

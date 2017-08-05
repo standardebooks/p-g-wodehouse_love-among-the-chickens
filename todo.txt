@@ -44,7 +44,16 @@ Chapter 7
         * "but inwardly as I, who knew" in source, still awkward
     unbiassed - should be "unbiased" ?
     "There was croquet after lunch,--" , em-dash??
-    
+
+Chapter 8
+    Fixed comma to period at end of:
+        "We was talking there, ma'am, when Bob, what had followed me unknown,
+        trotted in.
+    chimbley is dialect form of chimney, and chimley is an alternate form of
+        chimbley (left it in for Hired Man speech)
+    Put comma em-dash back in:
+        I could read what was passing in his mind,<em-dash>
+    using "appal" with one "l" because of British spelling 
 
  
 vim: textwidth=79

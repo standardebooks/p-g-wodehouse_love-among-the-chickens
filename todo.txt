@@ -1,3 +1,9 @@
+Notes:
+    With macdictate, watch out for homonyms:
+        Derrick's vs. Derricks'
+        It's vs. Its
+        There vs. Their vs. They're
+
 Dedication:
     Who's Who is not italicized in original.  But it refers to a book.  Should
         it be italicized?
@@ -55,5 +61,14 @@ Chapter 8
         I could read what was passing in his mind,<em-dash>
     using "appal" with one "l" because of British spelling 
 
+Chapter 9
+    Retribution calling at the wrong address,
+        comma after address is weird but in source
+    (now moving in society once more, and in his right mind),
+        in source material -- parenthesis comma
+    Words that show up as misspelled:
+        reestablish
+        lightheartedness
+        
  
 vim: textwidth=79

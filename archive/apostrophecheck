@@ -1,0 +1,76 @@
+#!/usr/bin/env python3
+
+##!/bin/bash
+#
+#grep -o -E '.{16}‘.{16}' $@ | grep --color '‘'
+
+# the problem with the above grep is that it can miss multiple matches on 
+#   the same line if the "context" characters in the matches overlap
+
+import sys
+import argparse
+import termcolor
+
+def process_command_line(argv):
+    """
+    Return args struct
+    `argv` is a list of arguments, or `None` for ``sys.argv[1:]``.
+    """
+    #script_name = argv[0]
+    argv = argv[1:]
+
+    # initialize the parser object:
+    parser = argparse.ArgumentParser(
+            description="Find all occurrences of left curly single-quote in a "
+            "text file and display them, to check if they are supposed to be "
+            "apostrophes but curled in the wrong direction.")
+
+    # specifying nargs= puts outputs of parser in list (even if nargs=1)
+
+    # required arguments
+    parser.add_argument('srcfile', nargs='+',
+            help="Source file(s)."
+            )
+
+    # switches/options:
+    parser.add_argument(
+        '-c', '--context_chars', action='store', default=16,
+        help='Number of characters before and after curly-quote match.  '
+        )
+
+    #parser.add_argument(
+    #    '-o', '--omit_hidden', action='store_true',
+    #    help='Do not copy picasa hidden images to destination directory.')
+
+    #(settings, args) = parser.parse_args(argv)
+    args = parser.parse_args(argv)
+
+    return args
+
+def main(argv=None):
+    args = process_command_line(argv)
+    cchars = int(args.context_chars)
+    for file in args.srcfile:
+        print(termcolor.colored("\n"+file,attrs=['bold']))
+        with open(file, 'r') as in_fh:
+            file_text = in_fh.read()
+        for (i,char) in enumerate(file_text):
+            if char=="‘":
+                print(
+                        file_text[i-cchars:i] +
+                        termcolor.colored(file_text[i], 'red') +
+                        file_text[i+1:i+cchars+1]
+                        )
+
+    return 0
+
+
+if __name__ == "__main__":
+    try:
+        status = main(sys.argv)
+    except KeyboardInterrupt:
+        print("Stopped by Keyboard Interrupt", file=sys.stderr)
+        # exit error code for Ctrl-C
+        status = 130
+
+    sys.exit(status)

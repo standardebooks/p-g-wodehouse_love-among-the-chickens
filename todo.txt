@@ -74,5 +74,18 @@ Chapter 10
     "Not really a Coward" - not capitalized in source (should it be?)
     "Net and Mackerel" was quoted in source, but not quoting here
 
+Chapter 11
+    decided against such a course - source has "source" but this makes no
+        sense, so I'm keeping it corrected as gutenberg had it
+    "Why, yes, Mr. Ukridge, I think I will." starts a new paragraph in source
+        but gutenberg keeps it in the previous para because same speaker
+        I put it back to source to show the same speaker has spoken a new
+        paragraph
+    "Why do I miss these goods things?" in source corrected to "good things?"
+
+Chapter 12
+    
+    
+
  
 vim: textwidth=79

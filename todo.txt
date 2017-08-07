@@ -49,7 +49,7 @@ Chapter 7
     "outwardly resigned but inwardly, as I, who knew" not same as source
         * "but inwardly as I, who knew" in source, still awkward
     unbiassed - should be "unbiased" ?
-    "There was croquet after lunch,--" , em-dash??
+    "There was croquet after lunch,--" comma em-dash??
 
 Chapter 8
     Fixed comma to period at end of:
@@ -69,6 +69,10 @@ Chapter 9
     Words that show up as misspelled:
         reestablish
         lightheartedness
-        
+
+Chapter 10
+    "Not really a Coward" - not capitalized in source (should it be?)
+    "Net and Mackerel" was quoted in source, but not quoting here
+
  
 vim: textwidth=79

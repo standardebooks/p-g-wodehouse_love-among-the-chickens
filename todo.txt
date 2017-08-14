@@ -93,6 +93,12 @@ Chapter 13
     + mdash-period "a tide in the affairs of men, which, taken by the flood--."
     + comma-mdash "I served again,--a beauty."
     
+Chapter 14
+    * changed "desolute" to "desolate" because I can't find the word
+        "desolute"
+    + comma-mdash "I think dear,--yes, it was Harrod's"
+    + comma-mdash "dunning one in one's own garden,--well, it's a little hard,"
+    
 
  
 vim: textwidth=79

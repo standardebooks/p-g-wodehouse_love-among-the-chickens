@@ -102,6 +102,14 @@ Chapter 14
 Chapter 15
     + comma-mdash "morning was perfect,--the most glorious of a glorious"
     + comma-mdash "Dear Sir,--My Harry, Mr. Hawk, sas to me"
+
+Chapter 16
+    * "I punched Tom Leigh" doesn't start new paragraph in source, but
+        I changed it because it starts new double-quote and seems to need to.
+    * hard to tell but I believe "and Harrod's jumpy, or that the bearings"
+        actually does have a comma in the source
     
+Chapter 17
+     
  
 vim: textwidth=79

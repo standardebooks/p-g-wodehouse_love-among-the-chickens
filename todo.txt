@@ -98,7 +98,10 @@ Chapter 14
         "desolute"
     + comma-mdash "I think dear,--yes, it was Harrod's"
     + comma-mdash "dunning one in one's own garden,--well, it's a little hard,"
+ 
+Chapter 15
+    + comma-mdash "morning was perfect,--the most glorious of a glorious"
+    + comma-mdash "Dear Sir,--My Harry, Mr. Hawk, sas to me"
     
-
  
 vim: textwidth=79

@@ -89,8 +89,9 @@ Chapter 12
     * revamped quotes and mdashes on "I have just got <i>The Outsider</i>"
 
 Chapter 13
-
-    
+    + comma-mdash "crushed,--a mere human jelly"
+    + mdash-period "a tide in the affairs of men, which, taken by the flood--."
+    + comma-mdash "I served again,--a beauty."
     
 
  

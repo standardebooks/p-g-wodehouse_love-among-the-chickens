@@ -1,3 +1,6 @@
+* I changed from source
++ I kept source, but it looks like it may be wrong
+
 Notes:
     With macdictate, watch out for homonyms:
         Derrick's vs. Derricks'
@@ -5,83 +8,81 @@ Notes:
         There vs. Their vs. They're
 
 Dedication:
-    Who's Who is not italicized in original.  But it refers to a book.  Should
+    + Who's Who is not italicized in original.  But it refers to a book.  Should
         it be italicized?
 
 Chapter 1
-    Page 11: "sketching tour in the west."  Shouldn't west be capitalized?
-    Page 11: "...on last time I saw him), with" Shouldn't comma be before )
-    Page 12: "...fullof emotion)." Shouldn't period be before )
+    + Page 11: "sketching tour in the west."  Shouldn't west be capitalized?
+    + Page 11: "...on last time I saw him), with" Shouldn't comma be before )
+    + Page 12: "...fullof emotion)." Shouldn't period be before )
     Page 13: modernize "summer time" as "summertime" ? 
     Page 14: GARNET!!!!! is rendered in tiny type--doesn't look right.
 
 Chapter 2
-    Page 15: "Who's Who" should it be italicized?  (not ital in orig.)
-    Page 18: "head master" should it be "headmaster"? ("head master" in orig.)
+    + Page 15: "Who's Who" should it be italicized?  (not ital in orig.)
+    + Page 18: "head master" should it be "headmaster"? ("head master" in orig.)
 
 Chapter 3
     Page 29: skintight or skin-tight (because noun?)
-    Page 29: "either blue nor grey" changed to either blue or grey
-        * I changed to "either blue or grey"
+    * Page 29: "either blue nor grey" changed to either blue or grey
     Page 30: in ebook, paragraph after poem starts without indent??
 
 Chapter 4
-    Page 42: manoever ligature
-    Page 43: "gun in his hands stood", gutenberg put a comman after hands
-        but this is not in source.
-        * I matched the source
+    + Page 42: manoever ligature
+    + Page 43: "gun in his hands stood",
+        instead of: gutenberg put a comma after hands
 
 Chapter 5
-    Page 47: double-check if comman in first sentence
-    Page 50: marquess,-- comma-em-dash
-    Page 54: manoeuvres, ligature
-    Page 58: sides,--
-    Page 59: places,--
-    Page 60: "onto a good thing" in source
-        * I corrected to on to a good thing
+    Page 47: double-check if comma in first sentence
+    + Page 50: marquess,-- comma-em-dash
+    + Page 54: manoeuvres, ligature
+    + Page 58: sides,--
+    + Page 59: places,--
+    * Page 60: "onto a good thing" in source
+        * I corrected to "on to a good thing"
     Page 60: "on to a good thing Garny, my boy" should be "thing, Garny, my"?
-    Page 60: of July,--a glorious
+    + Page 60: of July,--a glorious
 
 Chapter 6
-    wrong-headedness - should be one word?
+    + wrong-headedness - should be one word?
 
 Chapter 7
     "outwardly resigned but inwardly, as I, who knew" not same as source
-        * "but inwardly as I, who knew" in source, still awkward
-    unbiassed - should be "unbiased" ?
-    "There was croquet after lunch,--" comma em-dash??
+        - "but inwardly as I, who knew" in source, still awkward
+    + unbiassed - should be "unbiased" ?
+    + "There was croquet after lunch,--" comma em-dash??
 
 Chapter 8
-    Fixed comma to period at end of:
+    * Fixed comma to period at end of:
         "We was talking there, ma'am, when Bob, what had followed me unknown,
         trotted in.
-    chimbley is dialect form of chimney, and chimley is an alternate form of
+    + chimbley is dialect form of chimney, and chimley is an alternate form of
         chimbley (left it in for Hired Man speech)
-    Put comma em-dash back in:
+    + Put comma em-dash back in:
         I could read what was passing in his mind,<em-dash>
-    using "appal" with one "l" because of British spelling 
+    + using "appal" with one "l" because of British spelling 
 
 Chapter 9
-    Retribution calling at the wrong address,
+    + Retribution calling at the wrong address,
         comma after address is weird but in source
-    (now moving in society once more, and in his right mind),
+    + (now moving in society once more, and in his right mind),
         in source material -- parenthesis comma
     Words that show up as misspelled:
         reestablish
         lightheartedness
 
 Chapter 10
-    "Not really a Coward" - not capitalized in source (should it be?)
-    "Net and Mackerel" was quoted in source, but not quoting here
+    * "Not really a Coward" - not capitalized in source but I capitalized it
+    * "Net and Mackerel" was quoted in source, but not quoting here
 
 Chapter 11
-    decided against such a course - source has "source" but this makes no
+    * decided against such a course - source has "source" but this makes no
         sense, so I'm keeping it corrected as gutenberg had it
-    "Why, yes, Mr. Ukridge, I think I will." starts a new paragraph in source
+    + "Why, yes, Mr. Ukridge, I think I will." starts a new paragraph in source
         but gutenberg keeps it in the previous para because same speaker
         I put it back to source to show the same speaker has spoken a new
         paragraph
-    "Why do I miss these goods things?" in source corrected to "good things?"
+    * "Why do I miss these goods things?" in source corrected to "good things?"
 
 Chapter 12
     

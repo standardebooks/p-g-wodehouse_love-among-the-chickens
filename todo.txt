@@ -117,6 +117,12 @@ Chapter 18
 Chapter 19
 
 Chapter 20
+    * not be drear and blank; that a more judicious
+        is colon in source, but doesn't make sense so I changed it to semicolon
+    * "Me dear boy,--" in source mdash is outside of quotes, but I 
+        corrected it.
+
+Chapter 21
     
 
  

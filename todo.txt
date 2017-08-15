@@ -110,6 +110,12 @@ Chapter 16
         actually does have a comma in the source
     
 Chapter 17
-     
+
+Chapter 18
+    + Ukridge says "damme", other times in text it is "damn" ??
+
+Chapter 19
+    
+
  
 vim: textwidth=79

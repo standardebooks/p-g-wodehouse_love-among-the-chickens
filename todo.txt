@@ -127,10 +127,11 @@ Chapter 21
     + comma-mdash "four pounds of salary in advance,--"
 
 Chapter 22
-    * "Great Scott" in source it is "Great Scot"
+    * "Great Scott", in source it is "Great Scot"
 
 Chapter 23
-    
-
+    * changed : to ; "She mentioned the figure that would clear us; I patted
+        the dog."
+    + comma-emdash "which I had never seen there before,--a look of reverence" 
  
 vim: textwidth=79

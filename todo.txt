@@ -1,13 +1,10 @@
 * I changed from source
 + I kept source, but it looks like it may be wrong
 
-Notes:
-    With macdictate, watch out for homonyms:
-        Derrick's vs. Derricks'
-        It's vs. Its
-        There vs. Their vs. They're
 
 Dedication:
+    + Love Among the Chickens is not italicized in original.  But it refers
+        to (this)  book.  Should it be italicized?
     + Who's Who is not italicized in original.  But it refers to a book.  Should
         it be italicized?
 

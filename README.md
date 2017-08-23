@@ -34,3 +34,6 @@ https://babel.hathitrust.org/cgi/pt?id=umn.31951002415437z
 * [Chapter 21](https://rawgit.com/itsayellow/p-g-wodehouse_love-among-the-chickens/master/src/epub/text/chapter-21.xhtml) -- [HathiTrust Chapter 21](https://babel.hathitrust.org/cgi/pt?id=umn.31951002415437z;view=2up;seq=230)
 * [Chapter 22](https://rawgit.com/itsayellow/p-g-wodehouse_love-among-the-chickens/master/src/epub/text/chapter-22.xhtml) -- [HathiTrust Chapter 22](https://babel.hathitrust.org/cgi/pt?id=umn.31951002415437z;view=2up;seq=238)
 * [Chapter 23](https://rawgit.com/itsayellow/p-g-wodehouse_love-among-the-chickens/master/src/epub/text/chapter-23.xhtml) -- [HathiTrust Chapter 23](https://babel.hathitrust.org/cgi/pt?id=umn.31951002415437z;view=2up;seq=252)
+
+# Notes
+* [Annotations from madameulalie.org](http://madameulalie.org/tmordue/pgwbooks/pgwlatc1.html)

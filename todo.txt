@@ -150,18 +150,20 @@ Chapter 12
     + Page 123: comma-mdash after "at least Ukridge and Beale had,--"
 
 Chapter 13
-    + comma-mdash "crushed,--a mere human jelly"
-    + mdash-period "a tide in the affairs of men, which, taken by the flood--."
-    + comma-mdash "I served again,--a beauty."
+    + Page 138: comma-mdash "crushed,--a mere human jelly"
+    + Page 140: mdash-period
+        "a tide in the affairs of men, which, taken by the flood--."
+    + Page 140: comma-mdash "I served again,--a beauty."
 
 Chapter 14
-    + comma-mdash "I think dear,--yes, it was Harrod's"
+    + Page 147: comma-mdash "I think dear,--yes, it was Harrod's"
     + Page 149: comma-mdash
         "dunning one in one's own garden,--well, it's a little hard,"
 
 Chapter 15
-    + comma-mdash "morning was perfect,--the most glorious of a glorious"
-    + comma-mdash "Dear Sir,--My Harry, Mr. Hawk, sas to me"
+    + Page 155: comma-mdash
+        "morning was perfect,--the most glorious of a glorious"
+    + Page 164: comma-mdash "Dear Sir,--My Harry, Mr. Hawk, sas to me"
 
 Chapter 16
 
@@ -172,12 +174,15 @@ Chapter 18
 Chapter 19
 
 Chapter 20
-    + comma-mdash "four pounds of salary in advance,--"
+
+Chapter 21
+    + Page 230: comma-mdash "four pounds of salary in advance,--"
 
 Chapter 22
 
 Chapter 23
-    + comma-emdash "which I had never seen there before,--a look of reverence"
+    + Page 253: comma-emdash
+        "which I had never seen there before,--a look of reverence"
 
 
 I CHANGED FROM SOURCE
@@ -198,14 +203,12 @@ Chapter 4
 
 Chapter 5
     * Page 60: "onto a good thing" in source
-        * I corrected to "on to a good thing"
+        I corrected to "on to a good thing"
 
 Chapter 6
 
 Chapter 7
     * Page 73 "unbiassed" - changed to "unbiased"
-    "outwardly resigned but inwardly, as I, who knew" not same as source
-        - "but inwardly as I, who knew" in source, still awkward
 
 Chapter 8
     * Fixed comma to period at end of:
@@ -260,6 +263,7 @@ Chapter 22
 Chapter 23
     * changed : to ; "She mentioned the figure that would clear us; I patted
         the dog."
+
 
 NOTES (NOTHING TO BE DONE, JUST NOTING)
 ---------------------------------------

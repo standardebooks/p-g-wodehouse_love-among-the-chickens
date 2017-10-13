@@ -1,52 +1,171 @@
 * I changed from source
-+ I kept source, but it looks like it may be wrong
++ I kept source, but it looks questionable
 
 Page numbers refer to HathiTrust version
 
-QUESTIONABLE
-------------
+
+I KEPT EBOOK LIKE SOURCE, BUT MAY BE WRONG
+------------------------------------------
 
 Dedication:
+    + Page V: Love Among the Chickens is not italicized in original.  But it
+        refers to (this)  book.  Should it be italicized?
+    + Page VI: Who's Who is not italicized in original.  But it refers to a
+        book.  Should it be italicized?
 
 Chapter 1
-    Page 13: modernize "summer time" as "summertime" ?
-    Page 14: GARNET!!!!! is rendered in tiny type--doesn't look right.
+    + Page 11: "sketching tour in the west."  Shouldn't west be capitalized?
+    + Page 11: "...on last time I saw him), with" Shouldn't comma be before )
+    + Page 12: "...fullof emotion)." Shouldn't period be before )
+    + Page 13: modernize "summer time" as "summertime" ?
+    + Page 14: GARNET!!!!! is rendered in tiny type--doesn't look right.
 
 Chapter 2
+    + Page 15: "Who's Who" should it be italicized?  (not ital in orig.)
+    + Page 18: "head master" should it be "headmaster"? ("head master" in orig.)
 
 Chapter 3
-    Page 30: in ebook, paragraph after poem starts without indent??
+    + Page 29: should "without interest in life, and one or two other" be
+        "without interest in life; and one or two other"
+        because each category is in the sentence is separated by a semicolon?
+    + Page 30: in standard ebooks style, paragraph after poem starts without
+        indent??
+    + Page 35: "vanity-case"
 
 Chapter 4
+    + Page 41: "fowl-run" should be "fowl run"?
+    + Page 42: manoeuvre with ligature, should be just plain "manoeuvre"?
+    + Page 43: "gun in his hands stood",
+        instead of: gutenberg put a comma after hands
+    + Page 44: "barrel-organ" should be "barrel organ"
 
 Chapter 5
-    Page 47: double-check if comma in first sentence
-    Page 60: "on to a good thing Garny, my boy" should be "thing, Garny, my"?
+    + Page 47: double-check if comma in first sentence
+    + Page 48: "turned on to the beach," should be "turned onto the beach"?
+    + Page 54: manoeuvres, ligature
+    + Page 60: "on to a good thing Garny, my boy" should be "thing, Garny, my"?
 
 Chapter 6
+    + Page 61: "wrong-headedness" should be "wrongheadedness" ?
 
 Chapter 7
     "outwardly resigned but inwardly, as I, who knew" not same as source
         - "but inwardly as I, who knew" in source, still awkward
 
 Chapter 8
+    + chimbley is dialect form of chimney, and chimley is an alternate form of
+        chimbley (left it in for Hired Man speech)
+    + using "appal" with one "l" because of British spelling
 
 Chapter 9
-    Words that show up as misspelled:
+    + Page 89: "our cold-dinner party a shopwoman," should be
+        "out cold-dinner party, a shopwoman," ?
+    + (now moving in society once more, and in his right mind),
+        in source material -- parenthesis comma
+    + Page 91: in Cambridge dictionary, "light-hearted" is "English" while
+        "lighthearted" is "American".  Does that mean in an en_GB text the
+        word should be "light-heartedness" as in original?
+        http://dictionary.cambridge.org/us/dictionary/english/light-hearted
+        http://dictionary.cambridge.org/us/dictionary/english/lighthearted
+    + Words that show up as misspelled:
         reestablish
-        lightheartedness
 
 Chapter 10
 
 Chapter 11
+    + Page 117: "Why, yes, Mr. Ukridge, I think I will." starts a new paragraph
+        in source but gutenberg keeps it in the previous para because same
+        speaker I put it back to source to show the same speaker has spoken a
+        new paragraph
 
 Chapter 12
+    + Page 129: "the <i>Manoeuvres of Arthur</i>" should be
+        "<i>The Manoeuvres of Arthur</i>" ?  Maybe not, maybe is a breezy
+        way of referring to the book.
+    + Page 130: "the <i>Manoeuvres of Arthur</i>" should be
+        "<i>The Manoeuvres of Arthur</i>" ?  Maybe not, maybe is a breezy
+        way of referring to the book.
 
 Chapter 13
 
 Chapter 14
 
 Chapter 15
+
+Chapter 16
+    + Page 171: "I don't want to see yeou again!'" - is "yeou" dialect? or
+        just a typo in original?
+
+Chapter 17
+
+Chapter 18
+    + Page 193: Ukridge says "damme", other times in text it is "damn" ??
+    + Page 194: Ukridge says "damme"
+    + Page 199: "miss-in-baulk" modern usage has no hyphens, but here Ukridge
+        uses it as a concept, so hyphenating it may be ok.
+
+Chapter 19
+
+Chapter 20
+
+Chapter 22
+
+Chapter 23
+
+
+I KEPT SOURCE, BUT ODD
+M-DASH COMBINED WITH PUNCTUATION
+--------------------------------
+
+Dedication:
+
+Chapter 1
+
+Chapter 2
+
+Chapter 3
+    + Page 33: "A good chap, Arthur,--"
+
+Chapter 4
+
+Chapter 5
+    + Page 50: marquess,-- comma-em-dash
+    + Page 58: sides,--
+    + Page 59: places,--
+
+Chapter 6
+    + Page 60: of July,--a glorious
+
+Chapter 7
+    + Page 71: "if I might--." should be "if I might--" ?
+    + Page 74: "There was croquet after lunch,--" comma em-dash??
+
+Chapter 8
+    + Put comma em-dash back in:
+        I could read what was passing in his mind,<em-dash>
+
+Chapter 9
+
+Chapter 10
+
+Chapter 11
+
+Chapter 12
+    + Page 123: comma-mdash after "at least Ukridge and Beale had,--"
+
+Chapter 13
+    + comma-mdash "crushed,--a mere human jelly"
+    + mdash-period "a tide in the affairs of men, which, taken by the flood--."
+    + comma-mdash "I served again,--a beauty."
+
+Chapter 14
+    + comma-mdash "I think dear,--yes, it was Harrod's"
+    + Page 149: comma-mdash
+        "dunning one in one's own garden,--well, it's a little hard,"
+
+Chapter 15
+    + comma-mdash "morning was perfect,--the most glorious of a glorious"
+    + comma-mdash "Dear Sir,--My Harry, Mr. Hawk, sas to me"
 
 Chapter 16
 
@@ -57,12 +176,12 @@ Chapter 18
 Chapter 19
 
 Chapter 20
-
-Chapter 21
+    + comma-mdash "four pounds of salary in advance,--"
 
 Chapter 22
 
 Chapter 23
+    + comma-emdash "which I had never seen there before,--a look of reverence"
 
 
 I CHANGED FROM SOURCE
@@ -140,127 +259,11 @@ Chapter 20
 Chapter 21
 
 Chapter 22
-    * "Great Scott", in source it is "Great Scot"
+    * "Great Scott", in source it is "Great Scot" (can't find this form)
 
 Chapter 23
     * changed : to ; "She mentioned the figure that would clear us; I patted
         the dog."
-
-
-I KEPT SOURCE, BUT IT LOOKS LIKE IT MAY BE WRONG
-------------------------------------------------
-
-Dedication:
-    + Love Among the Chickens is not italicized in original.  But it refers
-        to (this)  book.  Should it be italicized?
-    + Who's Who is not italicized in original.  But it refers to a book.  Should
-        it be italicized?
-
-Chapter 1
-    + Page 11: "sketching tour in the west."  Shouldn't west be capitalized?
-    + Page 11: "...on last time I saw him), with" Shouldn't comma be before )
-    + Page 12: "...fullof emotion)." Shouldn't period be before )
-
-Chapter 2
-    + Page 15: "Who's Who" should it be italicized?  (not ital in orig.)
-    + Page 18: "head master" should it be "headmaster"? ("head master" in orig.)
-
-Chapter 3
-    + Page 29: should "without interest in life, and one or two other" be
-        "without interest in life; and one or two other"
-        because each category is in the sentence is separated by a semicolon?
-    + Page 33: "A good chap, Arthur,--"
-    + Page 35: "vanity-case"
-
-Chapter 4
-    + Page 41: "fowl-run" should be "fowl run"?
-    + Page 42: manoeuvre with ligature, should be just plain "manoeuvre"?
-    + Page 43: "gun in his hands stood",
-        instead of: gutenberg put a comma after hands
-    + Page 44: "barrel-organ" should be "barrel organ"
-
-Chapter 5
-    + Page 48: "turned on to the beach," should be "turned onto the beach"?
-    + Page 50: marquess,-- comma-em-dash
-    + Page 54: manoeuvres, ligature
-    + Page 58: sides,--
-    + Page 59: places,--
-
-Chapter 6
-    + Page 60: of July,--a glorious
-    + Page 61: "wrong-headedness" should be "wrongheadedness" ?
-
-Chapter 7
-    + Page 71: "if I might--." should be "if I might--" ?
-    + Page 74: "There was croquet after lunch,--" comma em-dash??
-
-Chapter 8
-    + chimbley is dialect form of chimney, and chimley is an alternate form of
-        chimbley (left it in for Hired Man speech)
-    + Put comma em-dash back in:
-        I could read what was passing in his mind,<em-dash>
-    + using "appal" with one "l" because of British spelling
-
-Chapter 9
-    + Page 89: "our cold-dinner party a shopwoman," should be
-        "out cold-dinner party, a shopwoman," ?
-    + (now moving in society once more, and in his right mind),
-        in source material -- parenthesis comma
-
-Chapter 10
-
-Chapter 11
-    + Page 117: "Why, yes, Mr. Ukridge, I think I will." starts a new paragraph
-        in source but gutenberg keeps it in the previous para because same
-        speaker I put it back to source to show the same speaker has spoken a
-        new paragraph
-
-Chapter 12
-    + Page 123: comma-mdash after "at least Ukridge and Beale had,--"
-    + Page 129: "the <i>Manoeuvres of Arthur</i>" should be
-        "<i>The Manoeuvres of Arthur</i>" ?  Maybe not, maybe is a breezy
-        way of referring to the book.
-    + Page 130: "the <i>Manoeuvres of Arthur</i>" should be
-        "<i>The Manoeuvres of Arthur</i>" ?  Maybe not, maybe is a breezy
-        way of referring to the book.
-
-Chapter 13
-    + comma-mdash "crushed,--a mere human jelly"
-    + mdash-period "a tide in the affairs of men, which, taken by the flood--."
-    + comma-mdash "I served again,--a beauty."
-
-Chapter 14
-    + comma-mdash "I think dear,--yes, it was Harrod's"
-    + Page 149: comma-mdash
-        "dunning one in one's own garden,--well, it's a little hard,"
-    + Page 150: "be it never so humble" should be "be it ever so humble"?
-
-Chapter 15
-    + Page 155: "I seemed to know that that day was" awkward (but ok I guess)?
-    + comma-mdash "morning was perfect,--the most glorious of a glorious"
-    + comma-mdash "Dear Sir,--My Harry, Mr. Hawk, sas to me"
-
-Chapter 16
-    + Page 171: "I don't want to see yeou again!'" - is "yeou" dialect? or
-        just a typo in original?
-
-Chapter 17
-
-Chapter 18
-    + Page 193: Ukridge says "damme", other times in text it is "damn" ??
-    + Page 194: Ukridge says "damme"
-    + Page 199: "miss-in-baulk" modern usage has no hyphens, but here Ukridge
-        uses it as a concept, so hyphenating it may be ok.
-
-Chapter 19
-
-Chapter 20
-    + comma-mdash "four pounds of salary in advance,--"
-
-Chapter 22
-
-Chapter 23
-    + comma-emdash "which I had never seen there before,--a look of reverence"
 
 
 vim: textwidth=79

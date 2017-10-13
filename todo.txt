@@ -49,13 +49,9 @@ Chapter 6
     + Page 61: "wrong-headedness" should be "wrongheadedness" ?
 
 Chapter 7
-    "outwardly resigned but inwardly, as I, who knew" not same as source
-        - "but inwardly as I, who knew" in source, still awkward
+    + Page 66: "but inwardly as I, who knew" in source awkward ?
 
 Chapter 8
-    + chimbley is dialect form of chimney, and chimley is an alternate form of
-        chimbley (left it in for Hired Man speech)
-    + using "appal" with one "l" because of British spelling
 
 Chapter 9
     + Page 89: "our cold-dinner party a shopwoman," should be
@@ -67,8 +63,8 @@ Chapter 9
         word should be "light-heartedness" as in original?
         http://dictionary.cambridge.org/us/dictionary/english/light-hearted
         http://dictionary.cambridge.org/us/dictionary/english/lighthearted
-    + Words that show up as misspelled:
-        reestablish
+    + Page 91 reestablish: Cambridge says UK "re-establish, also reestablish"
+        http://dictionary.cambridge.org/us/dictionary/english/re-establish?q=reestablish
 
 Chapter 10
 
@@ -141,8 +137,8 @@ Chapter 7
     + Page 74: "There was croquet after lunch,--" comma em-dash??
 
 Chapter 8
-    + Put comma em-dash back in:
-        I could read what was passing in his mind,<em-dash>
+    + Page 84: comma em-dash
+        "I could read what was passing in his mind,<em-dash>"
 
 Chapter 9
 
@@ -264,6 +260,12 @@ Chapter 22
 Chapter 23
     * changed : to ; "She mentioned the figure that would clear us; I patted
         the dog."
+
+NOTES (NOTHING TO BE DONE, JUST NOTING)
+---------------------------------------
+
+Chapter 8
+    + using "appal" with one "l" because of British spelling
 
 
 vim: textwidth=79

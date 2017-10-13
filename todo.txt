@@ -3,6 +3,11 @@
 
 Page numbers refer to HathiTrust version
 
+immediate to-do:
+----------------
+Net and Mackerel is used in three places in the book, unquote all or quote all
+    Chps 10, 21, 22
+
 
 I KEPT EBOOK LIKE SOURCE, BUT MAY BE WRONG
 ------------------------------------------
@@ -211,37 +216,42 @@ Chapter 7
     * Page 73 "unbiassed" - changed to "unbiased"
 
 Chapter 8
-    * Fixed comma to period at end of:
+    * Page 83: Changed comma to period at end of:
         "We was talking there, ma'am, when Bob, what had followed me unknown,
         trotted in.
 
 Chapter 9
 
 Chapter 10
-    * "Not really a Coward" - not capitalized in source but I capitalized it
-    * "Net and Mackerel" was quoted in source, but not quoting here
+    * Page 106: changed: "Not really a Coward" to "Not Really a Coward"
+    * Page 109: "Net and Mackerel" was quoted in source, but not quoting here
 
 Chapter 11
-    * decided against such a course - source has "source" but this makes no
-        sense, so I'm keeping it corrected as gutenberg had it
-    * "Why do I miss these goods things?" in source corrected to "good things?"
+    * Page 114: "decided against such a course" - source has "such a source"
+        but this makes no sense, so I'm keeping it corrected as gutenberg had
+        it
+    * Page 120: "Why do I miss these goods things?" in source
+        corrected to "good things?"
 
 Chapter 12
-    * revamped quotes and mdashes on "I have just got <i>The Outsider</i>"
+    * Page 130:
+        revamped quotes and mdashes on "I have just got <i>The Outsider</i>"
 
 Chapter 13
 
 Chapter 14
-    * changed "desolute" to "desolate" because I can't find the word
+    * Page 144 changed "desolute" to "desolate" because I can't find the word
         "desolute"
 
 Chapter 15
 
 Chapter 16
-    * "I punched Tom Leigh" doesn't start new paragraph in source, but
-        I changed it because it starts new double-quote and seems to need to.
-    * hard to tell but I believe "and Harrod's jumpy, or that the bearings"
-        actually does have a comma in the source
+    * Page 171: "I punched Tom Leigh" doesn't start new paragraph in source,
+        but I changed it because it starts new double-quote and seems to
+        need to.
+    * Page 173: hard to tell but I believe
+        "and Harrod's jumpy, or that the bearings" actually does have a
+        comma in the source
 
 Chapter 17
 
@@ -250,26 +260,27 @@ Chapter 18
 Chapter 19
 
 Chapter 20
-    * not be drear and blank; that a more judicious
+    * Page 216: "not be drear and blank; that a more judicious"
         is colon in source, but doesn't make sense so I changed it to semicolon
-    * "Me dear boy,--" in source mdash is outside of quotes, but I
+    * Page 221: "Me dear boy,--" in source mdash is outside of quotes, but I
         corrected it.
 
 Chapter 21
 
 Chapter 22
-    * "Great Scott", in source it is "Great Scot" (can't find this form)
+    * Page 240: "Great Scott", in source it is "Great Scot"
+        (in chapter 13 source has correctly "Great Scott")
 
 Chapter 23
-    * changed : to ; "She mentioned the figure that would clear us; I patted
-        the dog."
+    * Page 249: changed : to ;
+        "She mentioned the figure that would clear us; I patted the dog."
 
 
 NOTES (NOTHING TO BE DONE, JUST NOTING)
 ---------------------------------------
 
 Chapter 8
-    + using "appal" with one "l" because of British spelling
+    + Page 86: using "appal" with one "l" because of British spelling
 
 
 vim: textwidth=79

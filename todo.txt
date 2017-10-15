@@ -5,8 +5,6 @@ Page numbers refer to HathiTrust version
 
 immediate to-do:
 ----------------
-Net and Mackerel is used in three places in the book, unquote all or quote all
-    Chps 10, 21, 22
 
 
 I KEPT EBOOK LIKE SOURCE, BUT MAY BE WRONG
@@ -20,8 +18,6 @@ Dedication:
 
 Chapter 1
     + Page 11: "sketching tour in the west."  Shouldn't west be capitalized?
-    + Page 11: "...on last time I saw him), with" Shouldn't comma be before )
-    + Page 12: "...fullof emotion)." Shouldn't period be before )
     + Page 13: modernize "summer time" as "summertime" ?
     + Page 14: GARNET!!!!! is rendered in tiny type--doesn't look right.
 
@@ -33,51 +29,36 @@ Chapter 3
     + Page 29: should "without interest in life, and one or two other" be
         "without interest in life; and one or two other"
         because each category is in the sentence is separated by a semicolon?
-    + Page 30: in standard ebooks style, paragraph after poem starts without
-        indent??
-    + Page 35: "vanity-case"
+    + Page 35: "vanity-case" should it be "vanity case"?
 
 Chapter 4
     + Page 41: "fowl-run" should be "fowl run"?
-    + Page 42: manoeuvre with ligature, should be just plain "manoeuvre"?
-    + Page 43: "gun in his hands stood",
-        instead of: gutenberg put a comma after hands
+    + Page 42: manoeuvre with ligature, should be just plain no-lig "manoeuvre"?
     + Page 44: "barrel-organ" should be "barrel organ"
 
 Chapter 5
-    + Page 47: double-check if comma in first sentence
     + Page 48: "turned on to the beach," should be "turned onto the beach"?
-    + Page 54: manoeuvres, ligature
-    + Page 60: "on to a good thing Garny, my boy" should be "thing, Garny, my"?
+    + Page 54: manoeuvres, should it have ligature?
 
 Chapter 6
     + Page 61: "wrong-headedness" should be "wrongheadedness" ?
 
 Chapter 7
-    + Page 66: "but inwardly as I, who knew" in source awkward ?
 
 Chapter 8
 
 Chapter 9
     + Page 89: "our cold-dinner party a shopwoman," should be
         "out cold-dinner party, a shopwoman," ?
-    + (now moving in society once more, and in his right mind),
-        in source material -- parenthesis comma
     + Page 91: in Cambridge dictionary, "light-hearted" is "English" while
         "lighthearted" is "American".  Does that mean in an en_GB text the
         word should be "light-heartedness" as in original?
         http://dictionary.cambridge.org/us/dictionary/english/light-hearted
         http://dictionary.cambridge.org/us/dictionary/english/lighthearted
-    + Page 91 reestablish: Cambridge says UK "re-establish, also reestablish"
-        http://dictionary.cambridge.org/us/dictionary/english/re-establish?q=reestablish
 
 Chapter 10
 
 Chapter 11
-    + Page 117: "Why, yes, Mr. Ukridge, I think I will." starts a new paragraph
-        in source but gutenberg keeps it in the previous para because same
-        speaker I put it back to source to show the same speaker has spoken a
-        new paragraph
 
 Chapter 12
     + Page 129: "the <i>Manoeuvres of Arthur</i>" should be
@@ -100,10 +81,10 @@ Chapter 16
 Chapter 17
 
 Chapter 18
-    + Page 193: Ukridge says "damme", other times in text it is "damn" ??
+    + Page 193: Ukridge says "damme" as in source...another form of "damn"?
     + Page 194: Ukridge says "damme"
     + Page 199: "miss-in-baulk" modern usage has no hyphens, but here Ukridge
-        uses it as a concept, so hyphenating it may be ok.
+        uses it as a concept, so hyphenating it may be ok?
 
 Chapter 19
 
@@ -207,6 +188,9 @@ Chapter 3
 Chapter 4
 
 Chapter 5
+    * Page 47: Source scan is unclear, but I believe there is the comma as I
+        put it in:
+        "streaming into my bedroom through the open window, woke me"
     * Page 60: "onto a good thing" in source
         I corrected to "on to a good thing" 
 
@@ -281,6 +265,12 @@ NOTES (NOTHING TO BE DONE, JUST NOTING)
 
 Chapter 8
     + Page 86: using "appal" with one "l" because of British spelling
+
+Chapter 11
+    + Page 117: "Why, yes, Mr. Ukridge, I think I will." starts a new paragraph
+        in source but gutenberg keeps it in the previous para because same
+        speaker I put it back to source to show the same speaker has spoken a
+        new paragraph
 
 
 vim: textwidth=79

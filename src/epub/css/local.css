@@ -1,77 +1,80 @@
-@charset "UTF-8";
+@charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
 /* Standard Ebooks examples below ----------------------------------------- */
 
 span[epub|type~="subtitle"]{
-    display: block;
-    font-weight: normal;
+	display: block;
+	font-weight: normal;
 }
 [epub|type~="z3998:poem"] p{
-    text-align: left;
-    text-indent: 0;
+	text-align: left;
+	text-indent: 0;
 }
 
 [epub|type~="z3998:poem"] p > span{
-    display: block;
-    text-indent: -1em;
-    padding-left: 1em;
+	display: block;
+	text-indent: -1em;
+	padding-left: 1em;
 }
 
 [epub|type~="z3998:poem"] p > span + br{
-    display: none;
+	display: none;
 }
 
 [epub|type~="z3998:poem"] p + p{
-    margin-top: 1em;
+	margin-top: 1em;
 }
 
 [epub|type~="z3998:poem"] + p{
-    text-indent: 0;
+	text-indent: 0;
 }
 
 p span.i1{
-    text-indent: -1em;
-    padding-left: 2em;
+	text-indent: -1em;
+	padding-left: 2em;
 }
 
 p span.i2{
-    text-indent: -1em;
-    padding-left: 3em;
+	text-indent: -1em;
+	padding-left: 3em;
 }
-abbr.name{ white-space: nowrap; }
+
+abbr.name{
+	white-space: nowrap;
+}
 
 /* Alex Cabal suggestion below (in email)---------------------------------- */
 
 footer{
-    margin-top: 1em;
-    text-align: right;
+	margin-top: 1em;
+	text-align: right;
 }
 
 .signature{
-    font-variant: small-caps;
+	font-variant: small-caps;
 }
 
 [epub|type~="z3998:letter"] .signature{
-    text-align: right;
+	text-align: right;
 }
 
 [epub|type~="dedication"] header{
-    margin: 1em auto;
-    text-align: center;
+	margin: 1em auto;
+	text-align: center;
 }
 
 [epub|type~="dedication"] header p{
-    font-size: 1.5em;
-    text-indent: 0;
+	font-size: 1.5em;
+	text-indent: 0;
 } 
 
 span[epub|type~="z3998:salutation"]{
-    font-variant: small-caps;
+	font-variant: small-caps;
 }
 
 blockquote[epub|type~="dedication"]{
-    text-align: center;
+	text-align: center;
 }
 
 /* Matthew Clapp custom below --------------------------------------------- */
@@ -79,15 +82,15 @@ blockquote[epub|type~="dedication"]{
 /* could be the same as a poem? */
 /*
 [epub|type~="boxingplaybyplay"]{
-    text-indent: -1.5em;
-    padding-left: 1.5em;
+	text-indent: -1.5em;
+	padding-left: 1.5em;
 }
 */
-p.boxingplaybyplay {
-    text-indent: -1.5em; /* 1.0 instead?? */
-    padding-left: 1.5em; /* 1.0 instead?? */
+p.boxingplaybyplay{
+	text-indent: -1.5em; /* 1.0 instead?? */
+	padding-left: 1.5em; /* 1.0 instead?? */
 }
 
-.fromprint {
-    font-variant: small-caps;
+.fromprint{
+	font-variant: small-caps;
 }

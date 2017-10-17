@@ -31,7 +31,7 @@
 		<meta property="meta-auth" refines="#subject-5">https://www.gutenberg.org/ebooks/3829</meta>
 		<meta property="se:subject">Comedy</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">Stanley Ukridge ensnares the narrator in another one of his schemes: running a chicken farm in the English countryside.  Love and other characters complicate the endeavor.</dc:description>
+		<dc:description id="description">Stanley Ukridge ensnares the narrator in another one of his schemes: running a chicken farm in the English countryside. Love and other characters complicate the endeavor.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description"><![CDATA[
 			LONGDESCRIPTION
@@ -53,7 +53,7 @@
 		<dc:contributor id="artist">Lilly Martin Spencer</dc:contributor>
 		<meta property="file-as" refines="#artist">Spencer, Lilly Martin</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Lilly_Martin_Spencer</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/nr91019656.html</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/nr91019656</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Charles</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Charles</meta>
@@ -66,7 +66,7 @@
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">mrk</meta>
 		<dc:contributor id="producer-1">Matthew Clapp</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Clapp, Matthew</meta>
-                <meta property="se:url.homepage" refines="#producer-1">http://www.itsayellow.com/</meta>
+		<meta property="se:url.homepage" refines="#producer-1">http://www.itsayellow.com/</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>

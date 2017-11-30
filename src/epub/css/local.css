@@ -7,6 +7,7 @@ span[epub|type~="subtitle"]{
 	display: block;
 	font-weight: normal;
 }
+
 [epub|type~="z3998:poem"] p{
 	text-align: left;
 	text-indent: 0;
@@ -85,7 +86,9 @@ blockquote[epub|type~="dedication"]{
 	text-indent: -1.5em;
 	padding-left: 1.5em;
 }
+
 */
+
 p.boxingplaybyplay{
 	text-indent: -1.5em; /* 1.0 instead?? */
 	padding-left: 1.5em; /* 1.0 instead?? */

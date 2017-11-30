@@ -18,7 +18,7 @@
 		<meta property="role" refines="#type-designer" scheme="marc:relators">tyd</meta>
 		<link href="onix.xml" rel="onix-record"/>
 		<dc:title id="title">Love Among the Chickens</dc:title>
-		<meta property="file-as" refines="#title">SORT</meta>
+		<meta property="file-as" refines="#title">Love Among the Chickens</meta>
 		<dc:subject id="subject-1">Humorous stories</dc:subject>
 		<dc:subject id="subject-2">England -- Fiction</dc:subject>
 		<dc:subject id="subject-3">Farm life -- Fiction</dc:subject>
@@ -31,11 +31,11 @@
 		<meta property="meta-auth" refines="#subject-5">https://www.gutenberg.org/ebooks/3829</meta>
 		<meta property="se:subject">Comedy</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">Stanley Ukridge ensnares the narrator in another one of his schemes: running a chicken farm in the English countryside. Love and other characters complicate the endeavor.</dc:description>
+		<dc:description id="description">Stanley Ukridge ensnares the narrator in another one of his schemes: running a chicken farm in the English countryside.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<meta id="long-description" property="se:long-description" refines="#description"><![CDATA[
 			LONGDESCRIPTION
-		</meta>
+		]]></meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/3829</dc:source>
@@ -107,7 +107,7 @@
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/dedication.xhtml" id="dedication.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/halftitle.xhtml" id="halftitle.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
 	</manifest>

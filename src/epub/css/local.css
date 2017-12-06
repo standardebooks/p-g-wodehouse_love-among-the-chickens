@@ -57,9 +57,9 @@ footer{
 }
 
 [epub|type~="dedication"] header p{
-	font-size: 1.5em;
+	font-size: 1.25em;
 	text-indent: 0;
-} 
+}
 
 span[epub|type~="z3998:salutation"]{
 	font-variant: small-caps;
@@ -69,13 +69,15 @@ blockquote[epub|type~="dedication"]{
 	text-align: center;
 }
 
+b,
+strong{
+	font-weight: normal;
+	font-variant: small-caps;
+}
+
 /* Matthew Clapp custom below --------------------------------------------- */
 
 p.boxingplaybyplay{
 	text-indent: -1.5em; /* 1.0 instead?? */
 	padding-left: 1.5em; /* 1.0 instead?? */
-}
-
-.fromprint{
-	font-variant: small-caps;
 }

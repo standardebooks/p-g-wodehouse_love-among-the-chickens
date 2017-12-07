@@ -77,7 +77,11 @@ strong{
 
 /* Matthew Clapp custom below --------------------------------------------- */
 
-p.boxingplaybyplay{
-	text-indent: -1.5em; /* 1.0 instead?? */
-	padding-left: 1.5em; /* 1.0 instead?? */
+.report p:first-child{
+	text-align: center;
+}
+
+.report p + p{
+	margin-top: 1em;
+	text-indent: 0;
 }

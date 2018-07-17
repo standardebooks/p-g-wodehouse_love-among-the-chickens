@@ -1,8 +1,6 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-/* Standard Ebooks examples below ----------------------------------------- */
-
 span[epub|type~="subtitle"]{
 	display: block;
 	font-weight: normal;
@@ -36,8 +34,6 @@ abbr.name{
 	white-space: nowrap;
 }
 
-/* Alex Cabal suggestion below (in email)---------------------------------- */
-
 footer{
 	margin-top: 1em;
 	text-align: right;
@@ -61,8 +57,12 @@ footer{
 	text-indent: 0;
 }
 
-span[epub|type~="z3998:salutation"]{
+[epub|type~="z3998:salutation"]{
 	font-variant: small-caps;
+}
+
+[epub|type~="z3998:salutation"] + p{
+	text-indent: 0;
 }
 
 blockquote[epub|type~="dedication"]{
@@ -74,8 +74,6 @@ strong{
 	font-weight: normal;
 	font-variant: small-caps;
 }
-
-/* Matthew Clapp custom below --------------------------------------------- */
 
 .report p:first-child{
 	text-align: center;

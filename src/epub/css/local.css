@@ -30,10 +30,6 @@ p span.i1{
 	padding-left: 2em;
 }
 
-abbr.name{
-	white-space: nowrap;
-}
-
 footer{
 	margin-top: 1em;
 	text-align: right;
@@ -49,7 +45,6 @@ footer{
 
 [epub|type~="dedication"] header{
 	margin: 1em auto;
-	text-align: center;
 }
 
 [epub|type~="dedication"] header p{
@@ -67,12 +62,6 @@ footer{
 
 blockquote[epub|type~="dedication"]{
 	text-align: center;
-}
-
-b,
-strong{
-	font-weight: normal;
-	font-variant: small-caps;
 }
 
 .report p:first-child{

@@ -30,6 +30,10 @@ p span.i1{
 	padding-left: 2em;
 }
 
+#chapter-3 [epub|type~="z3998:poem"]{
+	font-style: italic;
+}
+
 footer{
 	margin-top: 1em;
 	text-align: right;
@@ -64,11 +68,11 @@ blockquote[epub|type~="dedication"]{
 	text-align: center;
 }
 
-.report p:first-child{
+#chapter-10 blockquote p:first-child{
 	text-align: center;
 }
 
-.report p + p{
+#chapter-10 blockquote p + p{
 	margin-top: 1em;
 	text-indent: 0;
 }

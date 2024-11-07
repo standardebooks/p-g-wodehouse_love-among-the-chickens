@@ -43,7 +43,7 @@ footer{
 }
 
 [epub|type~="dedication"] header p{
-	font-size: 1.25em;
+	font-size: larger;
 	text-indent: 0;
 }
 
